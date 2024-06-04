@@ -7,8 +7,11 @@ Technical know-how and careful planning are needed to implement an effective hea
 
 
 # References:
->>https://github.com/rravivarman/RaspberryPi/tree/master/MAX30102 
->>https://github.com/tutRPi/Raspberry-Pi-Heartbeat-Pulse-Sensor.git 
->>https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/ 
+>>https://github.com/rravivarman/RaspberryPi/tree/master/MAX30102
+>> 
+>>https://github.com/tutRPi/Raspberry-Pi-Heartbeat-Pulse-Sensor.git
+>>
+>>https://www.raspberrypi-spy.co.uk/2018/04/i2c-oled-display-module-with-raspberry-pi/
+>>
 >>https://iotdesignpro.com/projects/how-to-send-data-to-thingspeak-cloud-using-raspberry-pi 
 
